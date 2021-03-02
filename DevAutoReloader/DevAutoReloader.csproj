@@ -4,7 +4,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <PackageId>SilK.DevAutoReloader</PackageId>
     <PackageDescription>A universal OpenMod plugin which reloads OpenMod whenever a plugin file is changed.</PackageDescription>
-    <PackageLicenseExpression>EUPL-1.2</PackageLicenseExpression>
+    <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
     <PackageTags>openmod openmod-plugin universal</PackageTags>
     <PackageAuthor>Stephen White</PackageAuthor>
     <Authors>Stephen White</Authors>
