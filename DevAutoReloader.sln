@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevAutoReloader", "DevAutoReloader\DevAutoReloader.csproj", "{2D0EC137-5AB0-475C-9149-EDE84BA22189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D0EC137-5AB0-475C-9149-EDE84BA22189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D0EC137-5AB0-475C-9149-EDE84BA22189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D0EC137-5AB0-475C-9149-EDE84BA22189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D0EC137-5AB0-475C-9149-EDE84BA22189}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B1590FE-C28C-4E96-A4DD-AE9C26E4FE4A}
+	EndGlobalSection
+EndGlobal
